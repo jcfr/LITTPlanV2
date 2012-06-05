@@ -31,7 +31,7 @@ class vtkMatrix4x4;
 class vtkMRMLNode;
 class qSlicerLITTPlanV2ModulePrivate;
 
-class Q_SLICER_QTMODULES_TRANSFORMS_EXPORT qSlicerLITTPlanV2Module
+class Q_SLICER_QTMODULES_LITTPLANV2_EXPORT qSlicerLITTPlanV2Module
   : public qSlicerLoadableModule
 {
   Q_OBJECT
